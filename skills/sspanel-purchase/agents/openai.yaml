@@ -1,0 +1,7 @@
+interface:
+  display_name: "机场面板购套餐"
+  short_description: "SSPanel 面板登录、充值出码、到账自动购套餐并取回订阅链接"
+  default_prompt: "使用 $sspanel-purchase 帮我在机场面板充值并购买套餐"
+
+policy:
+  allow_implicit_invocation: true
